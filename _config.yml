@@ -1,0 +1,6 @@
+Tittle: Shathani Sephela
+Logo
+show_downloads: True
+remote_theme: pages-theme/minimal@v0.2.0
+plugins:
+- jeky-remote-theme
